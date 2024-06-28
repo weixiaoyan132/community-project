@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="community-subject-common" />
+        <module name="community-subject-infra" />
+        <module name="community-subject-application-mq" />
+        <module name="community-subject-api" />
+        <module name="community-subject-domain" />
+        <module name="community-subject-application-job" />
+        <module name="community-subject-starter" />
+        <module name="community-subject-application-controller" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>

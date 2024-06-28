@@ -1,0 +1,7 @@
+com\community\subject\common\enums\IsDeletedFlagEnum.class
+com\community\subject\common\entity\PageResult.class
+com\community\subject\common\entity\PageInfo.class
+com\community\subject\common\enums\ResultCodeEnum.class
+com\community\subject\common\enums\SubjectInfoTypeEnum.class
+com\community\subject\common\entity\Result.class
+com\community\subject\common\enums\CatogoryTypeEnum.class
